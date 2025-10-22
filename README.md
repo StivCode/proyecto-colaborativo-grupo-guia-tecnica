@@ -1,6 +1,7 @@
 # 🧠 Git y GitHub
 
 El siguiente es una mofificacion para probar la resolucion de conflictos
+Esto es un cambio de parte mía (Daniel Forero) desde la rama de rama_readme
 
 Este repositorio tiene como propósito explicar de forma sencilla qué son **Git** y **GitHub**, dos herramientas fundamentales en el desarrollo de software moderno.
 
