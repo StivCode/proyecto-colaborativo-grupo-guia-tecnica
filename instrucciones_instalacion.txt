@@ -1,0 +1,9 @@
+Para instalar y usar Git y GitHub, se requiere una cuenta de usuario en GitHub y la instalación del software de Git en su computadora. 
+Crear una cuenta en GitHub
+Vaya al sitio web de GitHub en github.com/signup.
+Ingrese su dirección de correo electrónico y haga clic en Continuar.
+Cree una contraseña segura y, a continuación, un nombre de usuario único. El nombre de usuario será la URL de su perfil en la plataforma.
+Elija si desea recibir actualizaciones por correo electrónico y complete un proceso de verificación para confirmar que no es un robot.
+GitHub le enviará un correo electrónico de confirmación con un código de seguridad. Cópielo, péguelo en el campo correspondiente en el sitio web de GitHub y haga clic en Verificar.
+Responda algunas preguntas opcionales para personalizar su experiencia, como su perfil y sus intereses.
+Finalmente, haga clic en el botón para finalizar el proceso y su cuenta estará lista. 
