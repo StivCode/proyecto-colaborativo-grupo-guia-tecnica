@@ -1,5 +1,7 @@
 # 🧠 Git y GitHub
 
+El siguiente es una mofificacion para probar la resolucion de conflictos
+
 Este repositorio tiene como propósito explicar de forma sencilla qué son **Git** y **GitHub**, dos herramientas fundamentales en el desarrollo de software moderno.
 
 ---
