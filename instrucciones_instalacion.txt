@@ -7,4 +7,3 @@ Verifica la instalación: Abre la línea de comandos (Git Bash en Windows) y esc
 Instrucciones para crear una cuenta en GitHub
 Visita GitHub: Ve a github.com y haz clic en la opción para registrarte.
 Crea tu cuenta: Sigue el proceso para crear una nueva cuenta. Deberás elegir un nombre de usuario único y una contraseña.
-Configura tu perfil: Una vez que la cuenta esté creada, podrás acceder a tu panel principal y configurar tu perfil de usuario. 
