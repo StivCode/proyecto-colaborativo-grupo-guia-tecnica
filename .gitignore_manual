@@ -1,0 +1,17 @@
+# Ignorar archivos temporales o de trabajo
+*.tmp
+*.bak
+~$*
+
+# Ignorar archivos de respaldo o de texto exportado
+*.pdf
+*.docx
+*.odt
+
+# Ignorar carpetas locales de trabajo o cache
+temp/
+cache/
+
+# Ignorar metadatos del sistema
+.DS_Store
+Thumbs.db
